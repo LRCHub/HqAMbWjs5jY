@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hysteria",
+  "base_artist": "Muse",
+  "createdAt": "2026-02-17T08:59:49.973114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "American Eulogy: Mass Hysteria / Modern World",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_American_Eulogy__Mass_Hysteria___Modern_World_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/02_Hysteria_Muse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Mass Hysteria",
+      "artist": "Powerwolf",
+      "has_synced": false,
+      "path": "select/03_Black_Mass_Hysteria_Powerwolf.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Poppy",
+      "has_synced": true,
+      "path": "select/04_Hysteria_Poppy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/05_Hysteria_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Beyond The Black",
+      "has_synced": true,
+      "path": "select/06_Hysteria_Beyond_The_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aychim in Hysteria",
+      "artist": "Edguy",
+      "has_synced": true,
+      "path": "select/07_Aychim_in_Hysteria_Edguy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mass Hysteria",
+      "artist": "Metal Church",
+      "has_synced": false,
+      "path": "select/08_Mass_Hysteria_Metal_Church.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/09_Hysteria_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hysteria",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/10_Hysteria_Muse.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hysteria (Live At Rome Olympic Stadium)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/11_Hysteria_(Live_At_Rome_Olympic_Stadium)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ooops (Eric’s Kup of Hysteria edit)",
+      "artist": "808 State feat. Björk",
+      "has_synced": false,
+      "path": "select/12_Ooops_(Eric’s_Kup_of_Hysteria_edit)_808_State_feat._Björk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ooops (Eric's Kup of Hysteria Edit)",
+      "artist": "808 State",
+      "has_synced": false,
+      "path": "select/13_Ooops_(Eric's_Kup_of_Hysteria_Edit)_808_State.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ooops (Eric’s Kup of Hysteria remix)",
+      "artist": "808 State feat. Björk",
+      "has_synced": false,
+      "path": "select/14_Ooops_(Eric’s_Kup_of_Hysteria_remix)_808_State_feat._Björk.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ooops (Eric's Kup of Hysteria Remix)",
+      "artist": "808 State",
+      "has_synced": false,
+      "path": "select/15_Ooops_(Eric's_Kup_of_Hysteria_Remix)_808_State.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hysteria",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/pl_01_Hysteria_Muse.txt"
+    }
+  ]
+}
