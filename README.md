@@ -1,0 +1,40 @@
+# Muse – Hysteria
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:41.16] It's bugging me
+[00:43.62] Grating me
+[00:45.93] And twisting me around
+[00:50.35] Yeah, I'm endlessly
+[00:53.60] Caving in
+[00:56.21] And turning inside out
+[01:07.21] 
+[01:00.34] 'Cause I want it now
+[01:03.20] I want it now
+[01:07.04] Give me your heart and your soul
+[01:10.82] And I'm breaking out
+[01:13.57] I'm breaking out
+[01:17.32] Last chance to lose control
+[01:30.82] 
+[01:32.03] And it's holding me
+[01:35.02] Morphing me
+[01:37.53] And forcing me to strive
+[01:41.71] To be endlessly
+[01:45.34] Cold within
+[01:47.58] And dreaming I'm alive
+[01:58.58] 
+[01:52.00] 'Cause I want it now
+[01:54.88] I want it now
+[01:58.58] Give me your heart and your soul
+[02:02.45] I'm not breaking down
+[02:04.94] I'm breaking out
+[02:08.89] Last chance to lose control
+[02:22.39] 
+[03:04.54] And I want you now
+[03:06.91] I want you now
+[03:10.79] I feel my heart implode
+[03:14.55] And I'm breaking out
+[03:17.12] Escaping now
+[03:21.02] Feeling my faith erode
+```
